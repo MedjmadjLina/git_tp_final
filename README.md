@@ -94,8 +94,8 @@ Le **collaborateur 2** devra :
 Côté HTML, ça peu têtre simplement quelque chose comme : 
 
 ```
-<li>Mon élément</li>
-Ma superbe description
+<li>Prof de git: Thomas Ecalle</li>
+Lina
 ```
 Une fois que le **collaborateur 2** estime que tout son travail est fini, il peut **push** sa branche sur le dépôt distant.
 
