@@ -95,7 +95,7 @@ Côté HTML, ça peu têtre simplement quelque chose comme :
 
 ```
 <li>Prof de git: Thomas Ecalle</li>
-Lina
+<h1>Super</h1>
 ```
 Une fois que le **collaborateur 2** estime que tout son travail est fini, il peut **push** sa branche sur le dépôt distant.
 
